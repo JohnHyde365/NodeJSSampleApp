@@ -1,0 +1,17 @@
+{
+  "name": "johns-express-app",
+  "version": "0.0.0",
+  "description": "JohnsExpressApp",
+  "main": "app.js",
+  "author": {
+    "name": "Johnh"
+  },
+  "dependencies": {
+    "chai-http": "^3.0.0",
+    "express": "3.4.4",
+    "jade": "*",
+    "mocha": "^3.2.0",
+    "stylus": "*",
+    "supertest": "^2.0.1"
+  }
+}
