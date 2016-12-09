@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JohnsExpressApp", "JohnsExpressApp\JohnsExpressApp.njsproj", "{981C012F-F78F-487D-A420-91FC61B3BF3A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5646889F-C3E9-49BA-85FB-C2A55F09C2FD}"
+	ProjectSection(SolutionItems) = preProject
+		circle.yml = circle.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
